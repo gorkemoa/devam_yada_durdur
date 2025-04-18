@@ -79,7 +79,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           ],
         ),
       ),
-      body: const ChatScreen(),
+       body: const ChatScreen(), 
     );
   }
 }
